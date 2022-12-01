@@ -1,0 +1,2 @@
+beeAmount = 2
+
